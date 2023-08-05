@@ -1,0 +1,1 @@
+Create a database called 'photography_db' and import the SQL dump file. Change your sql username and password in the insert.php if necessary. The submitted details in the contact form will be saved in the contact table.
